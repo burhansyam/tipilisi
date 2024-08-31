@@ -10,7 +10,7 @@ https://bkad.my.id/tipi/go.m3u8?ch=timnas
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/avc.png" group-title="⚽ Live Event", AVC | MOJI
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/avc.png" group-title="⚽ Live Event", MOJI | AVC
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
 https://bkad.my.id/tipi/go.m3u8?ch=muji
 
