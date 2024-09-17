@@ -1,0 +1,175 @@
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Simpang Tugu Jogja
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY 0 KM View
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w955314280.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY 0 KM BNI Jogja
+http://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/chunklist_w1519223749.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY 0 KM Gedung Agung Jogja
+http://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/chunklist_w114998319.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY 0 KM Malioboro
+http://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/chunklist_w1499541048.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Malioboro
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w82526263.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Ngabean
+https://mam.jogjaprov.go.id:1937/atcs-kota/ParkiranNgabean.stream/chunklist_w65046879.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Jokteng Kulon
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengKulon.stream/chunklist_w1651432191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Jokteng Wetan
+http://cctvjss.jogjakota.go.id/atcs/ATCS_joktengwetan.stream/chunklist_w242294016.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Gondomanan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w965772830.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY RejoWinangun Jogja
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/chunklist_w1478834277.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Tungkak
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tungkak.stream/chunklist_w1890025043.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Perempatan JJ
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/chunklist_w1810700755.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Gramedia
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/chunklist_w289702257.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Kyai Mojo
+https://mam.jogjaprov.go.id:1937/atcs-kota/KyaiMojo1.stream/chunklist_w1690482971.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Galeria
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/chunklist_w83687669.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Simpang SGM
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w1801692763.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Serangan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/chunklist_w1514288183.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Mirota Kampus
+https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/chunklist_w18365287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Malioboro Mall DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV",Beringharjo DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", 0 KM Yogyakarta
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Alun² Utara DIY
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w108297307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Alun² Selatan DIY
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunSelatan3.stream/chunklist_w1409693452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Stasiun Tugu DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Parangtritis DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewPantaiParangTritis.stream/chunklist_w1470497340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Merapi DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Candi Prambanan DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Mangunan DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1363447093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Nglanggeran DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Tebing Breksi DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Depan BPK
+https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/chunklist_w842307275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Wirobrajan
+http://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w2012965028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Sugeng Jeroni
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni2.stream/chunklist_w842265048.m3u8
+//Kota
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Mentri Supeno
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/chunklist_w254075836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Warung Boto
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/chunklist_w2125737874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", DIY Jogokaryan
+http://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/chunklist_w2005928928.m3u8
+
+///Gunungkidul
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Patuk Selamat Datang
+https://api.beetv.my.id/yt/id.m3u8?id=M1EPS6S3Cr0
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Patuk RTH 1
+https://api.beetv.my.id/yt/id.m3u8?id=GQ-IkaiWc8E
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Patuk RTH 2
+https://api.beetv.my.id/yt/id.m3u8?id=cdCVdwGPhfY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Patuk RTH 3
+https://api.beetv.my.id/yt/id.m3u8?id=V8lEWQ6HxV4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Patuk
+https://api.beetv.my.id/yt/id.m3u8?id=svApkckkpyM
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Puskesmas Patuk II
+https://api.beetv.my.id/yt/id.m3u8?id=eaothmjLXDk
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Puskeswan Putat
+https://api.beetv.my.id/yt/id.m3u8?id=NV4wDNuW5Z0
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pertigaan Bunder
+https://api.beetv.my.id/yt/id.m3u8?id=H6jSu6e0Ows
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pertigaan Gading
+https://api.beetv.my.id/yt/id.m3u8?id=Lvi9bWjXIEs
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Bunderan Siyono
+https://api.beetv.my.id/yt/id.m3u8?id=22IzyDF1BvE
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Alun-Alun Wonosari
+https://api.beetv.my.id/yt/id.m3u8?id=IKqH-uo3NOY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Lapangan Pemda
+https://api.beetv.my.id/yt/id.m3u8?id=apVEJkGOaAY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Lapangan Pemda 1
+https://api.beetv.my.id/yt/id.m3u8?id=_YW-PKxXp6E
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Lapangan Pemda 2
+https://api.beetv.my.id/yt/id.m3u8?id=54GiVQUipOI
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Bunderan PLN
+https://api.beetv.my.id/yt/id.m3u8?id=2OLQv2aS-8w
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan RSUD Wonosari
+https://api.beetv.my.id/yt/id.m3u8?id=DhC_6owzZ5Q
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pasar Argosari
+https://api.beetv.my.id/yt/id.m3u8?id=ylqAD8A9iBY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pertigaan Amigo
+https://api.beetv.my.id/yt/id.m3u8?id=_EK8QaEZ_DY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Baleharjo
+https://api.beetv.my.id/yt/id.m3u8?id=KXZk5xVSZOU
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Selang B
+https://api.beetv.my.id/yt/id.m3u8?id=Domcnr5HN9Y
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Selang T
+https://api.beetv.my.id/yt/id.m3u8?id=d5Ul5q6h3WY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pasar Playen
+https://api.beetv.my.id/yt/id.m3u8?id=2onTAPFbVXM
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Tegalsari
+https://api.beetv.my.id/yt/id.m3u8?id=Gi4OPNmvLec
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Karangmojo T
+https://api.beetv.my.id/yt/id.m3u8?id=JUI3hSgaeqc
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Perempatan Karangmojo B
+https://api.beetv.my.id/yt/id.m3u8?id=a4fJMjnDxIA
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Simpang 3 Nglipar
+https://api.beetv.my.id/yt/id.m3u8?id=u6nvfLIdtFE
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pancuran Siraman
+https://api.beetv.my.id/yt/id.m3u8?id=A-HMooJedR0
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK BPP Semanu
+https://api.beetv.my.id/yt/id.m3u8?id=z6uHLz2-IfQ
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Puskesmas Ponjong II
+https://api.beetv.my.id/yt/id.m3u8?id=t5zc1QZIdOQ
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK TPR Utama
+https://api.beetv.my.id/yt/id.m3u8?id=upRMxAd-s-8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Mulo SMP 3 Wonosari
+https://api.beetv.my.id/yt/id.m3u8?id=dkK5hxD7bzQ
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Embung Sriten
+https://api.beetv.my.id/yt/id.m3u8?id=gdv4tcUeBfk
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pantai Baron
+https://api.beetv.my.id/yt/id.m3u8?id=Vpz53FGtF-k
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pantai Kukup
+https://api.beetv.my.id/yt/id.m3u8?id=s2AMbnjcc3U
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", GK Pantai Wediombo
+https://api.beetv.my.id/yt/id.m3u8?id=5vmiydoaPiw
+
+//Bantul
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Bantul Paseban
+https://mam.jogjaprov.go.id:1937/cctv-bantul/PerempatanPaseban.stream/chunklist_w610422978.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Bantul Paseban Korpri
+https://stream.bantulkab.go.id/020fe1af-c12c-4a1b-8d81-a15114bc7b26_output_0.m3u8?session=NDXag93bFHTgBtvp7KmKCQ
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Bantul Perempatan Pelemsewu
+https://stream.bantulkab.go.id/92aa1e04-13c9-4ad5-b8b6-40448b4c072e_output_0.m3u8?session=8dncGe8C4LEGGoEPN4MAwK
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Bantul Perempatan Druwo
+https://stream.bantulkab.go.id/592b4d35-1632-4ef3-83ca-ac1f976297c6_output_0.m3u8?session=nJgQJrLCVN932RvZNXknQK
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Bantul TPR Parangtritis
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TPRParangtritis.stream/chunklist_w1722250553.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Bantul Parangtritis
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/chunklist_w1308167377.m3u8
+
+//Sleman
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman Pos Polisi Denggung
+http://103.71.191.168/8880/hls/live.stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman Amplas
+http://103.71.191.168/8912/hls/live.stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman Pasar Tempel
+http://103.71.191.168/8887/hls/live.stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman RSUD Morangan
+http://103.71.191.168/8889/hls/live.stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman Merapi via Bronggang
+http://103.71.191.168/8910/hls/live.stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman Kali Krasak
+http://103.71.191.168/8893/hls/live.stream.m3u8
