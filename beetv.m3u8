@@ -67,12 +67,6 @@ https://webhdrunns.mizhls.ru/lb/premium398/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/liga.inggis.png" group-title="⚽ Live Event", 04 Live Bola 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium414/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="🌏 Nasional" tvg-logo="https://beetv.my.id/logo/transtv.png", 01.Transtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
