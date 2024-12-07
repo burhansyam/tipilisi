@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://beetv.my.id/logo/hbo.png" group-title="🎦 Asolole", HBO
+#EXTINF:0 tvg-logo="https://beetv.my.id/logo/hbo.png" group-title="🎦 Asolole", HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://beetv.my.id/logo/timnas.png" group-title="⚽ Live Event",TimNas Day
 #EXTVLCOPT:http-referrer=https://visionplus.id
