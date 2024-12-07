@@ -370,6 +370,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6858119921801816b5359d15e63/6dad5dffdfa845ba8387b8f2192b1ed5.jpg" group-title="⚽ Olahraga", Gaming TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
 
@@ -382,6 +383,7 @@ https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c685840ff04901845601f
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://beetv.my.id/logo/golfplus.png" group-title="⚽ Olahraga", Golf+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
