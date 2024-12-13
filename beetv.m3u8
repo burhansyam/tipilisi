@@ -196,6 +196,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽ Olahraga" tvg-logo="https://beetv.my.id/logo/tvrisport.png", 00 TVRI Sport HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/liga.inggis.png" group-title="⚽ Olahraga" ,PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -227,15 +232,40 @@ https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium43/index.m3u8
 
-#EXTINF:-1 tvg-id="Bein 1" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png", beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://ddy6.mizhls.ru/ddy6/premium491/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bein 1" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",01 beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 tvg-id="Bein 3" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein2_big1.png", beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://1qwebplay.xyz/
-https://ddy6.mizhls.ru/ddy6/premium493/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bein 2" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",01 beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:-1 tvg-id="Bein 3" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein2_big1.png",01 beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTINF:-1 tvg-id="Bein 4" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",01 beIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#EXTINF:-1 tvg-id="Bein 5" group-title="⚽ Olahraga" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",01 beIN Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTINF:-1 group-title="⚽ Olahraga" tvg-logo="https://beetv.my.id/logo/nba.png", NBATV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
