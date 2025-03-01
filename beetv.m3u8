@@ -18,10 +18,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/timnas.png" group-title="⚽ Live Event",03 TimNas Day 2
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/liga.png" group-title="⚽ Live Event",04 Liga 1 Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://bkad.my.id/tipi/go.m3u8?ch=timnas
+#EXTVLCOPT:http-referrer=https://may.arrivecap7x9g.shop/
+https://bkad.my.id/tipi/go.m3u8?ch=lisa
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/liga.inggis.png" group-title="⚽ Live Event", 04 Live Bola 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
