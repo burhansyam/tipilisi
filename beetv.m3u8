@@ -965,6 +965,120 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
+
+===================DaddyLiveHD================
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="⚽ Olahraga",01 Astro Supersport 1
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="⚽ Olahraga",02 Astro Supersport 2
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium124/mono.m3u8|Origin=https://pkpakiplay.xyz/&Referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="⚽ Olahraga",03 Astro Supersport 3
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="⚽ Olahraga",04 Astro Supersport 4
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="⚽ Olahraga",05 Astro Supersport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.postimg.cc/Nf6dxwqn/20220927-064246.png" group-title="⚽ Olahraga",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium429/mono.m3u8?|referer=https://pkpakiplay.xyz/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://i.postimg.cc/Nf6dxwqn/20220927-064246.png" group-title="⚽ Olahraga",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://i.postimg.cc/Nf6dxwqn/20220927-064246.png" group-title="⚽ Olahraga",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium434/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-logo="https://i.postimg.cc/VN641rry/20220927-064224.png" group-title="⚽ Olahraga",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium134/mono.m3u8?|referer=https://pkpakiplay.xyz/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-logo="https://i.postimg.cc/0NBnNkDz/20220927-064210.png" group-title="⚽ Olahraga",Arena Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium135/mono.m3u8?|referer=https://pkpakiplay.xyz/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-logo="https://i.postimg.cc/ZRvcBGxV/20220927-064156.png" group-title="⚽ Olahraga",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium139/mono.m3u8?|referer=https://pkpakiplay.xyz/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1  tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",08 Supersport Grand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium412/mono.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",07 Supersport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",06 Supersport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+https://zekonew.koskoros.ru/zeko/premium414/mono.m3u8?|referer=https://pkpakiplay.xyz/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://zekonew.koskoros.ru/zeko/premium56/mono.m3u8?|referer=https://pkpakiplay.xyz/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+https://zekonew.koskoros.ru/zeko/premium415/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportVariety.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium416/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium417/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium418/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium419/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium420/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Rugby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium421/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium422/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium423/mono.m3u8|referer=https://pkpakiplay.xyz/
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="⚽ Olahraga",09 Supersport Motorsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 
+https://zekonew.koskoros.ru/zeko/premium424/mono.m3u8|referer=https://pkpakiplay.xyz/
+
 =======================kids=====================
 
 #EXTINF:-1 tvg-logo="https://beetv.my.id/logo/kidstv.png" group-title="📺 Anak", KIDS Channel
